@@ -1,0 +1,26 @@
+{
+  "name": "new-chess-ai",
+  "version": "1.0.0",
+  "description": "This repo contains source codes, notes and materials for chess game.",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ./"
+  },
+  "author": "Mahmud",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MAHMUD1223/chess.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MAHMUD1223/chess/issues"
+  },
+  "homepage": "https://github.com/MAHMUD1223/chess#readme"
+}
